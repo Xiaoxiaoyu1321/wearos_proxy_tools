@@ -49,3 +49,6 @@ app.*.map.json
 
 # Local Flutter SDK symlink
 .flutter_symlink
+
+# Large local APK (preview package is committed as zip)
+dist/*.apk
