@@ -2,7 +2,7 @@
     <uses-feature android:name="android.hardware.type.watch" />
 
     <application
-        android:label="wearos_proxy_tools"
+        android:label="WearOS Proxy"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <provider
