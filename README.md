@@ -1,5 +1,8 @@
 # WearOS Proxy Tools
 
+> **项目使用 DeepSeek Harness。**
+> **项目仍处于实验性阶段，不推荐用于生产环境。**
+
 一个用于 Wear OS 的 Flutter 代理设置工具，通过 [Shizuku](https://shizuku.rikka.app/) 读取和修改 Android 全局代理（`Settings.Global.http_proxy`）。
 
 ## 功能特性
